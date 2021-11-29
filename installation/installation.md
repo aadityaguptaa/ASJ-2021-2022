@@ -10,8 +10,10 @@
 
 Follow these links to install Android Studio on your  device:	                                                                                       		
 
-- [Windows]()                                                   
-- [Mac]()
-- [Linux]()
+- [Windows](https://github.com/aadityaguptaa/ASJ-2021-2022/blob/main/installation/windows/windows.md)                                                   
+- [Mac](https://github.com/aadityaguptaa/ASJ-2021-2022/blob/main/installation/mac/mac.md)
+- [Linux](https://github.com/aadityaguptaa/ASJ-2021-2022/blob/main/installation/linux/linux.md)
+
+You can also refer to <a href="https://developer.android.com/studio/install">Android Official Documentation</a> for installation instructions
 
 
