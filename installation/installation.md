@@ -24,5 +24,31 @@ Follow these links to install Android Studio on your device:
 <br>
 <h1>2. Initial Setup</h1>
 
-After installing Android studio on your device, you need to create your first Android Project
+After installing Android studio on your device, you need to create your first Android Project. Don't worry, you don't need to write even a single line of code, Android Studio does everything for you.
 
+Step 1. Launch Android Studio
+
+Step 2. Click on Start a new Android Studio Project
+<p align="center">
+<img src="https://i.postimg.cc/HkhPwhDd/Screenshot-2021-12-02-210928.png" width="600dp" align="center"  />
+</p>
+
+Android Studio provides a lot of templates to give you a headstart in your project.
+Since we are noobs, we'll start with empty Activity.
+Step 3. Select Empty Activity and click Next. 
+<p align="center">
+<img src="https://i.ibb.co/89jgQmn/Screenshot-2021-12-02-210248.png" width="600dp" align="center"  />
+</p>
+
+Step 4. On the project details page, leave everything at their default value and click Finish. We'll cover all of them in the workshop. 
+Wait for a few minutes for the Android Studio setup to finish.
+<p align="center">
+<img src="https://i.ibb.co/qr9Chgh/Screenshot-2021-12-02-210340.png" width="600dp" align="center"  />
+</p>
+
+And done!!! Finally
+
+See you there at the workshop 
+
+Happy Coding 
+</p>
