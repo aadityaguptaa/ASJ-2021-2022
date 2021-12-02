@@ -18,7 +18,7 @@
 <img src="https://i.postimg.cc/WbyZFgJr/image.png" width="500"/>
 </p>
 
-<h3>Step 4: After the downloading has finished, open the file from downloads and run it. It will prompt the following dialog box. </h3>
+<h3>Step 4: After the downloading has finished, open the file from downloads and run it ( Extract the downloaded file first, if it's in zip). It will prompt the following dialog box. </h3>
 <p align="center">
 <img src="https://i.postimg.cc/qv6rZQqq/Screenshot-2021-11-29-145857.png" width="500"/>
 </p>
@@ -81,5 +81,5 @@ Choose Standard and click on Next. Now choose the theme, whether the Light theme
 <br>
 <br>
 <p align="center">
-<h1> 🥳🥳 Phew it's done... I know it was a lot, but it's worth it, trust me </h2>
+<h1> 🥳🥳 Phew it's done... I know it was a lot, but trust me, it's worth it </h2>
 </p>
